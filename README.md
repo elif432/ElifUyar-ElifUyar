@@ -7,9 +7,13 @@ Hi! I'm Elif Uyar, a data analyst with a foundation in biomedical engineering. I
 🛠 Skills
 
 Data Analysis: Excel, SQL
+
 Programming: Python (Pandas, NumPy, Matplotlib)
+
 Database Management: MySQL, PostgreSQL
+
 Data Visualization: Tableau, Power BI
+
 Machine Learning: Scikit-learn (beginner)
 
 📫 Contact Info
